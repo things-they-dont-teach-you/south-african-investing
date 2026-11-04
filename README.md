@@ -46,6 +46,23 @@ date it was checked.
 This course explains how things work. It never tells you what to buy or whether to withdraw. For
 your own situation, use a financial adviser licensed by the FSCA (lesson 7 shows how to check).
 
+## Known gaps
+
+Help wanted. Each fix needs an official source.
+
+- **SASSA grant figures** in `facts.md` come from an undated gov.za page. Confirm them on
+  sassa.gov.za.
+- **Living annuity range** (2.5% to 17.5%) comes from industry sources. Find a regulator or
+  legislation source.
+- **TFSA penalty rate**: lessons only say "a penalty tax". The rate (thought to be 40%) isn't
+  confirmed on a SARS page yet.
+- **Edge cases missing from lesson 3**: the one withdrawal allowed from a preservation fund,
+  provident fund members aged 55 or older on 1 March 2021, and legacy retirement annuities that
+  may be exempt from two-pot.
+- **FAIS Ombud** link and contact details in `facts.md` weren't checked.
+- **No diagrams yet.** Good candidates: the three pots, cash out vs preserve, fees over 30 years,
+  the scam checklist.
+
 ## Contributing
 
 Figures change every February. If one is out of date,
